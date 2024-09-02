@@ -1,5 +1,5 @@
 # keyrot
-brainrot keylogger. checks if input string matches some pre-specified internet meme, displays the associated meme in fullscreen, and plays a sound.
+brainrot "keylogger". checks if input string matches some pre-specified internet meme, displays the associated meme in fullscreen, and plays a sound.
 
 ## Usage
 Compile using make:
