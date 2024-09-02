@@ -37,7 +37,7 @@ int main(int argc, char **argv) {
             //printf("%s", buf);
             // if we reach the end of the buffer string, trigger the flashbang and clear the buffer
             if (target[buf_length] == 0) {
-                bang("sus.png", "sus.mp3");
+                bang("media/img/sus.png", "media/audio/sus.mp3");
                 clear_buffer(buf, &buf_length);
             }
         }
