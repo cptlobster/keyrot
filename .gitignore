@@ -1,0 +1,4 @@
+# ignore compiled object files
+*.o
+# ignore executable
+keyrot
